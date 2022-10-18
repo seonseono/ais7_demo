@@ -1,6 +1,6 @@
 # ais7_demo
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8282f7dd-4504-47be-9184-76c08e8f079a%2Fross-parmly-rf6ywHVkrlY-unsplash.jpg?table=block&id=528b5cb6-fd9a-4eea-bbb5-3c7349e95bd8&spaceId=4f7f6682-be6f-4828-a7f4-90f8fcbaf16d&width=2000&userId=320d7842-4e4f-42c0-a77f-68d1aeb47a72&cache=v2">
+<img src="![image](https://user-images.githubusercontent.com/115915544/196315219-3c3e8f07-a6a2-4a68-a532-f7e1ef8d6cde.png)">
 
 * 멋쟁이 사자처럼 AIS7 실습
 
