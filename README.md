@@ -2,7 +2,7 @@
 
 <img src="https://img.freepik.com/premium-vector/lion-walk-cute-cartoon-logo-icon-vector-illustration_15473-3079.jpg">
 
-* 멋쟁이 사자처럼 AIS7 실습
+### 멋쟁이 사자처럼 AIS7 실습
 
 ## 실습 순서
 1. 깃헙 계정 만들기
