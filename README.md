@@ -1,6 +1,6 @@
 # ais7_demo
 
-<img src="https://cdn.pixabay.com/photo/2016/10/19/13/42/eagle-1753002_1280">
+<img src="https://cdn.pixabay.com/photo/2016/10/19/13/42/eagle-1753002_1280.jpg">
 
 * 멋쟁이 사자처럼 AIS7 실습
 
